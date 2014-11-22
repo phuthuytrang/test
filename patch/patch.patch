@@ -1,0 +1,27 @@
+commit 20c8e2692594b9b90aebf967d8765e7042329ba9
+Author: dunglx <dung.lexuanbk@gmail.com>
+Date:   Fri Oct 31 19:02:58 2014 -0700
+
+    test push
+
+diff --git a/dunglx b/dunglx
+new file mode 100644
+index 0000000..9007678
+--- /dev/null
++++ b/dunglx
+@@ -0,0 +1 @@
++dunglx is here
+diff --git a/test3 b/test3
+deleted file mode 100644
+index 0ea3a42..0000000
+--- a/test3
++++ /dev/null
+@@ -1 +0,0 @@
+-chi co tren iss1
+diff --git a/test4 b/test4
+deleted file mode 100644
+index 85b2f3e..0000000
+--- a/test4
++++ /dev/null
+@@ -1 +0,0 @@
+-chi co tren master
